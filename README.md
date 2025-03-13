@@ -41,10 +41,10 @@ To set up and run the project locally:
    ```bash
    python test.py --model yolo
 ## Dataset ##
-  Source: [COCO 2017 Dataset](https://cocodataset.org/)
-  Filtered Class: Person (only).
+  - Source: [COCO 2017 Dataset](https://cocodataset.org/)
+  - Filtered Class: Person (only).
 
 ## Results ##
-  Object Detection Accuracy using IoU.
-  Visualized bounding boxes on test images.
+  - Object Detection Accuracy using IoU.
+  - Visualized bounding boxes on test images.
 
